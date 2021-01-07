@@ -1,4 +1,4 @@
 # nodejs-REST-api
 
-# A frameworkless REST API with Node JS
-# Run npm install to begin 
+ A frameworkless REST API in Node JS WITH CRUD functionality
+ Run `npm install` & `npm run start` to begin 
